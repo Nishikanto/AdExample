@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/classes-872f0670a1ff5630e83c4c4541e385695333c8e4.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-33325158e783797a504bbe294be8394d79a63c6e.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/classes-eb2b2f30de76ab13d687341a5986f4462e9e189e.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-474b62f461856d2e456f2a772b4270d62ce9b43f.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/classes-a6661e8c23724b0ea06e85098f5b32fca7798e9a.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/classes-867b2951959d0083a3043d21b54cf087161d075f.jar" />
+    </item>
+    <item
+        jar="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/nishikanto/AndroidStudioProjects/AdExample/app/build/intermediates/pre-dexed/debug/classes-98666c59d4882b1ad747941d3b4be5ef3241d01d.jar" />
+    </item>
+
+</items>
